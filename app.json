@@ -4,6 +4,7 @@
     "slug": "EmotiFit",
     "version": "1.0.0",
     "orientation": "default",
+    "scheme": "emotifit",
     "icon": "./app/assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
